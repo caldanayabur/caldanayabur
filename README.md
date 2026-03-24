@@ -1,4 +1,4 @@
-## Hi there 👋
+f## Hi there 👋
 
 <!--
 **caldanayabur/caldanayabur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +11,13 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Education:** Currently pursuing a Master’s degree at the University of South Florida (USF).
+
+**Field of Study & Interests:** AI and Business Analytics (Concentration in Analytics and Business Intelligence).
+
+**Core Interests:** Leveraging AI (like GitHub Copilot) to solve business challenges, data integration, and data visualization.
+
+**How to reach me:** https://www.linkedin.com/in/caldanayabur/
