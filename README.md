@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Education:** Currently pursuing a Master’s degree at the University of South Florida (USF).
+**Education:** Bachelor of Science in Economics and a Master of Science in Artificial Intelligence and Business Analytics, with a concentration in Analytics and Business Intelligence, from the University of South Florida (USF).
 
 **Field of Study & Interests:** AI and Business Analytics (Concentration in Analytics and Business Intelligence).
 
